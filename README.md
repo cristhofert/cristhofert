@@ -1,6 +1,5 @@
 ## Hola!
-Actualmente estoy haciendo el bootcamp de desarrollo FullStack en 4Geeks Academy y estoy cursando la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica).
-
+Hice el bootcamp de desarrollo FullStack en 4Geeks Academy y estoy cursando la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica).
 <br/>
 
 <a href="https://twitter.com/cristhofert97">
