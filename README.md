@@ -1,6 +1,8 @@
 ## Hola!
-Hice el bootcamp de desarrollo FullStack en 4Geeks Academy y estoy cursando la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). <br/>
-Actualmente estoy trabajando en Avance Software.
+Estudie la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). <br/>
+Y el bootcamp de desarrollo FullStack en 4Geeks Academy 
+Actualmente estoy trabajando part time en Avance Software
+Estoy en busqueda de un trabajo full time.
 <br/>
 
 <a href="https://twitter.com/cristhofert97">
