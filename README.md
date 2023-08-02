@@ -25,7 +25,6 @@ Estoy en busqueda de un trabajo full time.
 
 ---
 
-![Goncy's github stats](https://github-readme-stats.vercel.app/api?username=cristhofert&show_icons=true&hide_border=true)
 
 <!--### Hi there 👋
 **cristhofert/cristhofert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
