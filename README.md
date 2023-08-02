@@ -6,12 +6,14 @@ Estoy en busqueda de un trabajo full time.
 <br/>
 
 <a href="https://twitter.com/cristhofert97">
-<img align="left" alt="Nicolas Guillen Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
+<img align="left" alt="Cristhofer Travieso Twitter" width="22px" src="https://icongr.am/fontawesome/twitter.svg?size=128&color=70c8ff" />
 </a>
 <a href="https://www.instagram.com/cristhofertravieso/">
-<img align="left" alt="Nicolas Guillen Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
+<img align="left" alt="Cristhofer Travieso Instagram" width="22px" src="https://icongr.am/fontawesome/instagram.svg?size=128&color=70c8ff" />
 </a>
-
+<a href="https://www.linkedin.com/in/cristhofertravieso">
+<img align="left" alt="Cristhofer Travieso Instagram" width="22px" src="https://icongr.am/fontawesome/linkedin.svg?size=128&color=70c8ff" />
+</a>
 <br />
 
 
