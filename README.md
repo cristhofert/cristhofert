@@ -1,7 +1,7 @@
 ## Hola!
 Estudie la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). <br/>
 Y el bootcamp de desarrollo FullStack en 4Geeks Academy 
-Actualmente estoy trabajando part time en Avance Software
+Trabajé en Avance Software por dos años.
 Estoy en busqueda de un trabajo full time.
 <br/>
 
