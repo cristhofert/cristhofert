@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Cristhofer Travieso</h1>
-<h3 align="center">Estudie la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). Y el bootcamp de desarrollo FullStack en 4Geeks Academy. Estoy en busqueda de un trabajo full time.</h3>
-
-<p align="left"> <a href="https://twitter.com/cristhofert97" target="blank"><img src="https://img.shields.io/twitter/follow/cristhofert97?logo=twitter&style=for-the-badge" alt="cristhofert97" /></a> </p>
+<h3 align="center">Estudie la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). </h3>
+<h3>Y el bootcamp de desarrollo FullStack en 4Geeks Academy. Estoy en busqueda de un trabajo full time.</h3>
 
 - 💻 Trabajé en Avance Software por dos años. [Avance Software](https://avancesoftware.com.uy/)
 
 - 📫 Cómo contactarme **cristhofert97@gmail.com**
 
-- 📄 Conoce mis experiencias (Currículum Vitae - CV) [https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing](https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing)
+- 📄 Conoce mis experiencias [Currículum Vitae - CV](https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing)
 
 - ⚡ **Actualmente estoy buscando trabajo**
 
