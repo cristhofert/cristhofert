@@ -5,8 +5,10 @@
 - 💻 Trabajé en Avance Software por dos años. [Avance Software](https://avancesoftware.com.uy/)
 
 - 📫 Cómo contactarme **cristhofert97@gmail.com**
+  
+- 📄 Conoce mis experiencias [Sitio Web](https://cristhofertravieso.vercel.app/)
 
-- 📄 Conoce mis experiencias [Currículum Vitae - CV](https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing)
+- 📄 Descargar [Currículum Vitae - CV](https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing)
 
 - ⚡ **Actualmente estoy buscando trabajo**
 
