@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristhofer Travieso</h1>
+<h1 align="center">Cristhofer Travieso</h1>
 <h3 align="center">Estudie la carrera de Tecnologo en Informatica en la UTEC (Universidad Tecnologica). </h3>
 <h3>Y el bootcamp de desarrollo FullStack en 4Geeks Academy. Estoy en busqueda de un trabajo full time.</h3>
 
