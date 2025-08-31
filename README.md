@@ -8,7 +8,7 @@
   
 - 📄 Conoce mis experiencias [Sitio Web](https://cristhofertravieso.vercel.app/)
 
-- 📄 Descargar [Currículum Vitae - CV](https://drive.google.com/file/d/1qdKJGZYTZ31z-4nkRrT4G7bbsdxqs2Q8/view?usp=sharing)
+- 📄 Descargar [Currículum Vitae - CV](https://drive.google.com/file/d/1W-Els4AHdYUeHh-YZUXhyNGwAvKGbQ8A/view?usp=sharing)
 
 - ⚡ **Actualmente estoy buscando trabajo**
 
