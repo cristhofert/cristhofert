@@ -6,7 +6,9 @@
 
 - 📫 Cómo contactarme **cristhofert97@gmail.com**
   
-- 📄 Conoce mis experiencias [Sitio Web](https://cristhofertravieso.vercel.app/)
+- 📄 Mi Sitio Web [Sitio Web](https://cristhofertravieso.vercel.app/)
+  
+- 🧑‍💻 Uno de mis proyectos [DG Construcciones](https://www.dgconstrucciones.com.uy/)
 
 - 📄 Descargar [Currículum Vitae - CV](https://drive.google.com/file/d/1W-Els4AHdYUeHh-YZUXhyNGwAvKGbQ8A/view?usp=sharing)
 
